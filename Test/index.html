@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Ma To-Do List</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Ma To-Do List</h1>
+        <input type="text" id="taskInput" placeholder="Ajouter une tâche...">
+        <button onclick="addTask()" class="btn btn-success">Ajouter</button>
+        <button onclick="clearList()" class="btn btn-secondary">Effacer la liste</button>
+        <button onclick="saveList()" class="btn btn-primary">Sauvegarder la liste</button>
+        <p><b>Statistique</b>:<p id="taskCount">0 tâches</p></p>
+
+        <ul id="taskList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
