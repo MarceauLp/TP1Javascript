@@ -1,6 +1,7 @@
 # TP1Javascript
 
-![image](https://github.com/MarceauLp/TP1Javascript/assets/101061034/6a61a0ba-9897-4bce-a230-4041a8bf5365)
+![image](https://github.com/MarceauLp/TP1Javascript/assets/101061034/59ad47e6-2663-405c-8d98-ea6c23eeac73)
+
 
 
 **Compte-rendu sur l'utilisation du paradigme événementiel :**
